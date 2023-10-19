@@ -2,4 +2,5 @@
 This is a test of the new information added into the Git Repository
 
 # Pull Request
-Can I explore this now as a pull request
+The pull request feature did not work as I have no collaborating 
+authors, so I will not be commenting in this markdown cell anymore.
