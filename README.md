@@ -10,5 +10,6 @@ I was wrong, pull requests are done between branhes.
 I will not attempt to pull branch-1 into the master
 branch.
 
-# Visual Code instad of Git Bash
+# Visual Code instead of Git Bash
 Attempting to use VS Code and git desktop instead of git bash
+Why do I suck at typing as of late???
