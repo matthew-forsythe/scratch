@@ -16,5 +16,6 @@ Why do I suck at typing as of late???
 Note to self, markdown requries 2 spaces to jump to the  
 next line.
 
-I just made changes
-Is this working yet
+I just made changes  
+Is this working yet, yes it is.  
+However I just updated again to fix the spacing.
