@@ -22,3 +22,5 @@ However I just updated again to fix the spacing.
 Final Test.  
 I lied, because now I am testing the Local Certificate Change.  
 This was succesfull and everything now seems to be working.
+
+Testing the git add
