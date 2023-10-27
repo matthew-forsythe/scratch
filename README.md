@@ -20,4 +20,5 @@ I just made changes
 Is this working yet, yes it is.  
 However I just updated again to fix the spacing.  
 Final Test.  
-I lied, because now I am testing the Local Certificate Change.
+I lied, because now I am testing the Local Certificate Change.  
+This was succesfull and everything now seems to be working.
