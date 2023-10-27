@@ -15,3 +15,5 @@ Attempting to use VS Code and git desktop instead of git bash.
 Why do I suck at typing as of late???  
 Note to self, markdown requries 2 spaces to jump to the  
 next line.
+
+I just made changes
